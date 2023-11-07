@@ -8,4 +8,4 @@ for i in reversed(range(len(szoveg))):
     ujszoveg = ujszoveg + szoveg[i]
 print(ujszoveg)
 import math
-print(math.log2(32))
+print(math.log2(16))
